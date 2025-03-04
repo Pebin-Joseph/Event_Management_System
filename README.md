@@ -22,7 +22,7 @@ The **Event Management System** is a comprehensive web-based application that al
 ## 🚀 Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/event-management-system.git
+   git clone https://github.com/Pebin-Joseph/event-management-system.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -62,6 +62,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 For queries or collaboration, reach out to:
-- **Email**: your-email@example.com
+- **Email**: pebinjosepha.cse2024@citchennai.net
 - **GitHub**: [Your GitHub Profile](https://github.com/Pebin-Joseph)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/PEBIN JOSEPH A CSE)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/PEBIN_JOSEPH_A_CSE)
